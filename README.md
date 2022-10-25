@@ -1,10 +1,11 @@
-# MachineLearning
+# Machine Learning
 
 Resolução de problemas de Machine Learning, buscando ajudar no entendimento desta disciplina com exemplos dos algoritmos com códigos em Python explicados.
 Os códigos estarão separados nas categorias abaixo, com o nome do arquivo e uma breve descrição do que ele representa
 
 ### Pipeline de dados
-  * Análise Exploratória Descritiva
+  * Análise Exploratória Descritiva - Dataset Iris
+  Este exemplo apresenta uma solução para entender os dados do dataset Iris, desde a elaboração do Data Frame a partir dos array, até a geração de gráficos para suporte visual do que se tem no conjunto de dados.
 
 ### Aprendizado Supervisionado
 

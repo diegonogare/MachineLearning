@@ -10,8 +10,8 @@ Os códigos estarão separados nas categorias abaixo, com o nome do arquivo e um
 
 ### Aprendizado Supervisionado
   * Classificação
-   - KNN (K-Nearest Neighbors): É um algoritmo de classificação por instância, que a cada execução faz a comparação do elemento a ser predito com todos os outros elementos do conjunto de dados e compara a distância (por padrão, Euclidiana [que pode ser encontrada pelo cálculo de Pitágoras]). A partir da quantidade de K elementos mais próximos é definida a classe a qual aquele novo elemento pertence. Neste exemplo foi utilizado o Dataset Fraud Detection.
-   - Decision Tree (Árvore de Decisão): É um algoritmo de classificação por modelo, que permite criar uma árvore de busca. Sua explicabilidade é alta, dado que é possível entender facilmente quais foram os critérios utilizados para cada quebra de ramificação, desde a raíz até a folha da árvore. Neste exemplo foi utilizado o Dataset Fraud Detection.
+    - KNN (K-Nearest Neighbors): É um algoritmo de classificação por instância, que a cada execução faz a comparação do elemento a ser predito com todos os outros elementos do conjunto de dados e compara a distância (por padrão, Euclidiana [que pode ser encontrada pelo cálculo de Pitágoras]). A partir da quantidade de K elementos mais próximos é definida a classe a qual aquele novo elemento pertence. Neste exemplo foi utilizado o Dataset Fraud Detection.
+    - Decision Tree (Árvore de Decisão): É um algoritmo de classificação por modelo, que permite criar uma árvore de busca. Sua explicabilidade é alta, dado que é possível entender facilmente quais foram os critérios utilizados para cada quebra de ramificação, desde a raíz até a folha da árvore. Neste exemplo foi utilizado o Dataset Fraud Detection.
    
 
 ### Aprendizado Não Supervisionado

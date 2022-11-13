@@ -14,7 +14,7 @@ Os códigos estarão separados nas categorias abaixo, com o nome do arquivo e um
     - 2.2-DecisionTree_FraudDetection.ipynb: Decision Tree (Árvore de Decisão) é um algoritmo de classificação por modelo, que permite criar uma árvore de busca. Sua explicabilidade é alta, dado que é possível entender facilmente quais foram os critérios utilizados para cada quebra de ramificação, desde a raíz até a folha da árvore. Neste exemplo foi utilizado o Dataset Fraud Detection.
     
 ### Boas práticas
-   * Validação Cruzada
+  * Validação Cruzada
     - 3_1-CrossValidation_Iris.ipynb: Este exemplo de código explica de forma rápida como funciona a validação cruzada e implementa uma alternativa de (re)uso para que os modelos sejam treinados com os mesmos dados. Para fins didáticos, foi utilizado o dataset Iris que possui apenas 150 observações e facilita o entendimento.
    
 ## Como colaborar?

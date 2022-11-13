@@ -14,6 +14,7 @@ Os códigos estarão separados nas categorias abaixo, com o nome do arquivo e um
     - 2.2-DecisionTree_FraudDetection.ipynb: Decision Tree (Árvore de Decisão) é um algoritmo de classificação por modelo, que permite criar uma árvore de busca. Sua explicabilidade é alta, dado que é possível entender facilmente quais foram os critérios utilizados para cada quebra de ramificação, desde a raíz até a folha da árvore. Neste exemplo foi utilizado o Dataset Fraud Detection.
     - 2.3-KNN_MNist.ipynb: Exemplo de implementação de KNN utilizando a base de dados MNist, desde o momento da aquisição do dado até a geração da matriz de confusão (com a impressão de um caracter para ajudar no entendimento).
     - 2.4-DecisionTree_MNist.ipynb: Implementação de uma árvore de decisão na base de dados MNist, gerando inclusive a visualização da árvore desde a raiz até as folhas.
+    - 2.5-MultiLayerPerceptron_MNist.ipynb: Exemplo de implantação de uma Rede Neural de multiplas camadas com a arquitetura Multi-Layer Perceptron. A rede foi treinada inicialmente com três camadas ocultas contendo 400, 200 e 50 neurônios inicialmente.
     
 ### Boas práticas
   * Validação Cruzada

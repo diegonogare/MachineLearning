@@ -7,6 +7,7 @@ Os códigos estarão separados nas categorias abaixo, com o nome do arquivo e um
   * Análise Exploratória Descritiva
     - 1.1-AED-Iris.ipynb: Este exemplo apresenta uma solução para entender os dados do dataset Iris, desde a elaboração do Data Frame a partir dos array, até a geração de gráficos para suporte visual do que se tem no conjunto de dados. Possui explicações um pouco mais detalhadas dos códigos e o que eles representam.
     - 1.2-AED-FraudDetection.ipynb: Exploração do dataset FraudDetection do Kaggle. Após as técnicas iniciais, foi calculada a correlação para entender um pouco mais os dados em relação ao problema proposto. Apesar dos valores terem sido baixos, separei as variáveis que mais tem correlação com a variável alvo. Montei gráficos de dispersão e também histogramas para entender como os dados estão apresentados.
+    - 1.3-AED-MNist.ipynb: Exploração de dados do dataset Mnist, já trabalhado com valores tabulares para todos os 784 pixels originais das imagens com 28x28 pixels dos digitos numéricos.
 
 ### Aprendizado Supervisionado
   * Classificação

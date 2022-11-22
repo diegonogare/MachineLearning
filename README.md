@@ -22,6 +22,9 @@ Os códigos estarão separados nas categorias abaixo, com o nome do arquivo e um
     - 3.1-CrossValidation_Iris.ipynb: Este exemplo de código explica de forma rápida como funciona a validação cruzada e implementa uma alternativa de (re)uso para que os modelos sejam treinados com os mesmos dados. Para fins didáticos, foi utilizado o dataset Iris que possui apenas 150 observações e facilita o entendimento.
   * Grid Search
     - 3.2-GridSearch_KNN_Iris.ipynb: O Grid Search auxilia na escolha dos melhores hiperparâmetros para treinar o seu modelo. É possível definir quais são as configurações desejadas para testar o treino, e com isso, o modelo é treina com um plano cartesiano combinando todas as variações definidas. O resultado apresenta a melhor combinação testada, e essa configuração pode ser utilizada para treinar seu modelo final.
+  * Serialização de Modelo treinado
+    - 3.3-Gerar_Pickle.ipynb: Salvar o modelo treinado em um Pickle ou um ONNX permite que o modelo seja serializado em um objeto unico, e recuperado quando precisar. É util para manter uma foto do modelo treinado, e não precisar retreinar todas as vezes que for utilizar o modelo
+   
    
 ## Como colaborar?
 Esta playlist tem vídeos explicativos para ajudar em **Colaboração de Projetos**: https://www.youtube.com/playlist?list=PLrakQQfctUYX37CRv3fomYfKwDe0NLmsk

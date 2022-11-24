@@ -24,7 +24,11 @@ Os códigos estarão separados nas categorias abaixo, com o nome do arquivo e um
     - 3.2-GridSearch_KNN_Iris.ipynb: O Grid Search auxilia na escolha dos melhores hiperparâmetros para treinar o seu modelo. É possível definir quais são as configurações desejadas para testar o treino, e com isso, o modelo é treina com um plano cartesiano combinando todas as variações definidas. O resultado apresenta a melhor combinação testada, e essa configuração pode ser utilizada para treinar seu modelo final.
   * Serialização de Modelo treinado
     - 3.3-Gerar_Pickle.ipynb: Salvar o modelo treinado em um Pickle ou um ONNX permite que o modelo seja serializado em um objeto unico, e recuperado quando precisar. É util para manter uma foto do modelo treinado, e não precisar retreinar todas as vezes que for utilizar o modelo
-   
+
+### Comparação de algoritmos
+Utilizando a base de dados MNIST e a partir dos algoritmos KNN, DecisionTree e Multi-layer Perceptron, rodar o Grid Search com Stratified K-Fold para encontrar a melhor hiper-parametrização em cada um dos modelos. Serializar com Pickle o modelo campeão de cada algoritmo. Carregar todos os pickles em um novo Jupyter, montar uma base de dados de teste com Hold-out 80/20 e rodar o mesmo conjunto de dados de teste em cada um dos modelos carregados a partir dos Pickles e comparar os resultados obtidos.
+  * 5.1-MNIST_KNN.ipynb: Melhor hiper-parametrização encontrada para o algoritmo KNN
+  * 5.4-MNIST_ComparacaoAlgoritmos.ipynb: Comparação dos resultados dos algoritmos avaliados
    
 ## Como colaborar?
 Esta playlist tem vídeos explicativos para ajudar em **Colaboração de Projetos**: https://www.youtube.com/playlist?list=PLrakQQfctUYX37CRv3fomYfKwDe0NLmsk

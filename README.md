@@ -29,7 +29,10 @@ Os códigos estarão separados nas categorias abaixo, com o nome do arquivo e um
 Utilizando a base de dados MNIST e a partir dos algoritmos KNN, DecisionTree e Multi-layer Perceptron, rodar o Grid Search com Stratified K-Fold para encontrar a melhor hiper-parametrização em cada um dos modelos. Serializar com Pickle o modelo campeão de cada algoritmo. Carregar todos os pickles em um novo Jupyter, montar uma base de dados de teste com Hold-out 80/20 e rodar o mesmo conjunto de dados de teste em cada um dos modelos carregados a partir dos Pickles e comparar os resultados obtidos.
   * 5.1-MNIST_KNN.ipynb: Melhor hiper-parametrização encontrada para o algoritmo KNN
   * 5.2-MNIST_DT.ipynb: Melhor hiper-parametrização encontrada para o algoritmo Decision Tree
+  * 5.3-MINST_MLP.ipynb: Melhor hiper-parametrização encontrada para o algoritmo Multi-Layer Perceptron
   * 5.4-MNIST_ComparacaoAlgoritmos.ipynb: Comparação dos resultados dos algoritmos avaliados
+  * 5.5-MINST_GAN.ipynb: A partir de uma rede geradora (Rede GAN), é inventado um dígito. Em seguida, esse dígito é convertido em um array de pixels e então é usado como entrada nos três modelos para comparar a predição
+  
    
 ## Como colaborar?
 Esta playlist tem vídeos explicativos para ajudar em **Colaboração de Projetos**: https://www.youtube.com/playlist?list=PLrakQQfctUYX37CRv3fomYfKwDe0NLmsk

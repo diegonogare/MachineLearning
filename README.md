@@ -31,7 +31,8 @@ Utilizando a base de dados MNIST e a partir dos algoritmos KNN, DecisionTree e M
   * 5.2-MNIST_DT.ipynb: Melhor hiper-parametrização encontrada para o algoritmo Decision Tree
   * 5.3-MINST_MLP.ipynb: Melhor hiper-parametrização encontrada para o algoritmo Multi-Layer Perceptron
   * 5.4-MNIST_ComparacaoAlgoritmos.ipynb: Comparação dos resultados dos algoritmos avaliados
-  * 5.5-MINST_GAN.ipynb: A partir de uma rede geradora (Rede GAN), é inventado um dígito. Em seguida, esse dígito é convertido em um array de pixels e então é usado como entrada nos três modelos para comparar a predição
+  * 5.5-MINST_GAN.ipynb: Criação de uma rede Geradora e uma Discriminadora, para criar novos dígitos
+  * 5.6-MNIST_ConclusaoEstudo.ipynb: É carregada uma rede geradora (Rede GAN) e inventado um dígito. Em seguida, o dígito é convertido em um array de pixels e então é usado como entrada nos três modelos para que seja feita a predição.
   
    
 ## Como colaborar?

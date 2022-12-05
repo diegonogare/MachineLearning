@@ -33,6 +33,7 @@ Utilizando a base de dados MNIST e a partir dos algoritmos KNN, DecisionTree e M
   * 5.4-MNIST_ComparacaoAlgoritmos.ipynb: Comparação dos resultados dos algoritmos avaliados
   * 5.5-MINST_GAN.ipynb: Criação de uma rede Geradora e uma Discriminadora, para criar novos dígitos
   * 5.6-MNIST_ConclusaoEstudo.ipynb: É carregada uma rede geradora (Rede GAN) e inventado um dígito. Em seguida, o dígito é convertido em um array de pixels e então é usado como entrada nos três modelos para que seja feita a predição.
+  * 5.7-MNIST_GerarGIF.ipynb: Geração de um Gif animado com todos os dígitos gerados nas épocas do treino da GAN
   
    
 ## Como colaborar?

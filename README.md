@@ -1,7 +1,8 @@
-# Machine Learning
+# Machine Learning: Aprendizado de Máquina através de exemplos práticos
 
-Resolução de problemas de Machine Learning, buscando ajudar no entendimento desta disciplina com exemplos dos algoritmos com códigos em Python explicados.
-Os códigos estarão separados nas categorias abaixo, com o nome do arquivo e uma breve descrição do que ele representa
+Este repositório é dedicado à resolução de problemas de Machine Learning, com o objetivo de ajudar no entendimento desta disciplina. Aqui você encontrará exemplos de algoritmos com códigos em Python explicados de maneira detalhada.
+
+Os códigos estão organizados nas seguintes categorias, cada uma com o nome do arquivo e uma breve descrição do que ele representa:
 
 ### Pipeline de dados
   * Análise Exploratória Descritiva
